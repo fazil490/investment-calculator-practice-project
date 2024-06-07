@@ -8,7 +8,7 @@ function App() {
     initialInvestment: 0,
     annualInvestment: 0,
     expectedReturn: 0,
-    duration: 0
+    duration: 0 
 })
 
 const isInputValid = userInputs.duration >= 1;
